@@ -1,2 +1,2 @@
 # Data_Incubator1
-Application to Data Incubator
+My capstone project for Data Incubator
